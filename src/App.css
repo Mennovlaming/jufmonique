@@ -1,0 +1,90 @@
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --red: #FF3131;
+  --green: #00BF62;
+  --blue: #5656FF;  
+  --yellow: #FFCC51;
+  --purple: #8C52FF;
+  --black: #291D11;
+  --beige: #F6F1E8;
+}
+
+* {
+  font-family: 'Poppins';
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--beige);
+}
+
+
+main {
+  display: grid;
+  grid-template-rows: min-content 1fr min-content;
+  min-height: 70vh; 
+}
+
+.content {
+  flex-grow: 1; 
+}
+
+/* mobile first */
+main {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+
+  min-height: 70vh;
+}
+
+main a {
+  display: inline-block;
+  cursor: pointer;
+  color: var(--blue);
+}
+main ul {
+  padding: 1em;
+}
+main ul li {
+  font-size: 14px;
+}
+
+h1 {
+  color: var(--black);
+  margin-bottom: .5em;
+  font-size: 24px;
+}
+
+p {
+  margin: 1em 0;
+  color: var(--black);
+  font-size: 14px;
+}
+h2 {
+  font-size: 20px;
+}
+.contact a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+/* tablet-small laptop */
+@media (min-width: 880px) {
+  main {
+      width: 70%;
+  }
+}
+
+/* big screen */
+@media (min-width: 1350px) {
+  main {
+      width: 50%;
+  }
+}
