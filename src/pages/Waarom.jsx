@@ -10,7 +10,7 @@ const Waarom = () => {
 
 Ik ben al jaren met heel veel plezier juf. <br />
 
-In de huidige tijd zie ik steeds meer kinderen worstelen met zichzelf met de buitenwereld en de verwachtingen waar zij aan moeten voldoen, mede hierdoor vertonen kinderen opvallend gedrag.<br /><br /> 
+In de huidige tijd zie ik steeds meer kinderen worstelen met zichzelf, met de buitenwereld en de verwachtingen waar zij aan moeten voldoen, mede hierdoor vertonen kinderen opvallend gedrag.<br /><br /> 
 
 Ouders zijn op zoek naar steun. <br /><br />
 

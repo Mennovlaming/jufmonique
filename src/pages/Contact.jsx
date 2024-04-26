@@ -1,5 +1,3 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBuilding, faPhone, faHome, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
 import './index.css';
 

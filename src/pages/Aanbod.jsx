@@ -12,7 +12,7 @@ const Aanbod = () => {
 <p>Als kindercoach leer ik het kind dat het zelf controle heeft over zijn/haar gedrag. </p>
 <ul>
   <li><strong>Preventief.</strong> Ik coach het kind om sociale vaardigheden meer eigen te maken, zodat problemen kunnen worden voorkomen. </li>
-  <li><strong>Zelfvertrouwen.</strong> Ik coach het kind zodat het kind dat het erop kan vertrouwen dat het kwaliteiten heeft die ertoe doen. </li>
+  <li><strong>Zelfvertrouwen.</strong> Ik coach het kind zodat het kind erop kan vertrouwen dat het kwaliteiten heeft die ertoe doen. </li>
   <li><strong>Executieve vaardigheden.</strong> Het kind kan begeleid worden met vaardigheden die het nodig heeft om tot leren te komen, zoals het leren plannen, concentratie, werkhouding en emotieregulatie. </li>
 </ul>
 <div className='image-left'>
@@ -25,11 +25,11 @@ const Aanbod = () => {
 
 <h2>2. Kindercoach voor de leerkracht</h2>
 <ul>
-  <li>Ik kan de leerkrachten te begeleiden met ‘achter het gedrag van kinderen’ kijken en zo de kinderen ondersteunen die, om wat voor reden dan ook, nog moeite mee hebben om zich te houden aan de afspraken op school. </li>
+  <li>Ik kan de leerkrachten begeleiden met ‘achter het gedrag van kinderen’ kijken en zo de kinderen ondersteunen die, om wat voor reden dan ook, nog moeite mee hebben om zich te houden aan de afspraken op school. </li>
   <li>Ik kan handvatten geven hoe om te gaan met het kind en hun ouders. </li>
   <li>Ik kan leerkrachten helpen om zonder oordeel naar kinderen kijken en te luisteren. </li>
   <li>Ik kan kwaliteitsgericht kijken naar kinderen, wat kan het kind wel?</li>
-  <li>Ik kan luisteren naar de problemen die in de groep spelen, uitlaatklep, met tot gevolg, minder verzuim.</li>
+  <li>Ik kan luisteren naar de problemen die in de groep spelen, uitlaatklep voor de leerkracht zijn, met tot gevolg, minder verzuim.</li>
   <li>Ik kan oplossingsgericht naar problemen in de klas te kijken. </li>
 </ul>
 
