@@ -16,7 +16,7 @@ Ouders zijn op zoek naar steun. <br /><br />
 
 Leerkrachten hebben niet de tijd en de middelen om hier passend mee om te gaan. 
 
-Daarnaast zit de jeugdzorg overvol, En zijn er lange wachttijden. <br />
+Daarnaast zit de jeugdzorg overvol, en zijn er lange wachttijden. <br />
 
 De inzet van een kindercoach met onderwijservaring zou preventief problemen kunnen voorkomen. <br />
 
