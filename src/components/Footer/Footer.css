@@ -30,7 +30,10 @@ footer {
   footer img {
     width: 100px;
   }
-   
+  .footerlogo {
+    height: 100px;
+    width: 100px;
+  }
   .socials {
     margin-top: 1em;
     display: flex;
