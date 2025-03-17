@@ -5,7 +5,7 @@ import './Footer.css';
 function Footer() {
   
   return (
-    <footer style="height: 200px">
+    <footer>
         <div>
             <img src="/images/logo_part.png" className="footerlogo"alt="" />
             <ul className='footercontact'>
